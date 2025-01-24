@@ -10,6 +10,13 @@ Here, you will find the projects and work I've completed during my studies, as w
   - I was responsible for designing and implementing the abilities for one character; as well as modelling, texturing and animating two of them and a plenty of 3D props for the environments. I also created a lobby user interface for the game and managed the connection between clients.
   - Available now on [itch.io](https://flatwall-games.itch.io/kocube)!
 
+- 🧑‍💻 **[Indie Studio Simulator](https://github.com/Mdoc14/PracticaComportamientos)** 🧑‍💻: Indie Studio Simulator is a 3D simulation game centered on developing realistic character behaviors.
+  - I was responsible for designing and implementing an API to create character behaviors using various decision-making systems, including Finite State Machines (FSM), Behavior Trees (BT), and Utility Systems (US). Additionally, I created the behavior of the cat character, modeled it, and animated it.
+  - Available now on [itch.io](https://flatwall-games.itch.io/indie-studio-simulator)!
+
+- 🚂 **[Skyline Express](https://github.com/Mdoc14/Psyche)** 🚂: Skyline Express is an endless runner Android game developed in Unity focused on exploring mobile device controls, including gyroscope functionality and augmented reality features.
+  - I was responsible for designing some 3D assets and VFX.
+
 - 🔦 **[Psyche](https://github.com/Mdoc14/Psyche)** 🔦: Psyche is a 3D puzzle videogame with a dark aesthetic. The development of this project focused on applying software design patterns to address specific challenges.
   - I was responsible for designing some 3D assets, specifically props for a house environment, and implementing an state pattern to manage the behaviour of an enemy.
   - Available now on [itch.io](https://sebas-cvz.itch.io/psyche)!
