@@ -14,7 +14,7 @@ Here, you will find the projects and work I've completed during my studies, as w
   - I was responsible for designing and implementing an API to create character behaviors using various decision-making systems, including Finite State Machines (FSM), Behavior Trees (BT), and Utility Systems (US). Additionally, I created the behavior of the cat character, modeled it, and animated it.
   - Available now on [itch.io](https://flatwall-games.itch.io/indie-studio-simulator)!
 
-- 🚂 **[Skyline Express](https://github.com/Mdoc14/Psyche)** 🚂: Skyline Express is an endless runner Android game developed in Unity focused on exploring mobile device controls, including gyroscope functionality and augmented reality features.
+- 🚂 **[Skyline Express](https://github.com/Sebastian02L/UnityAndroidGame)** 🚂: Skyline Express is an endless runner Android game developed in Unity focused on exploring mobile device controls, including gyroscope functionality and augmented reality features.
   - I was responsible for designing some 3D assets and VFX.
 
 - 🔦 **[Psyche](https://github.com/Mdoc14/Psyche)** 🔦: Psyche is a 3D puzzle videogame with a dark aesthetic. The development of this project focused on applying software design patterns to address specific challenges.
